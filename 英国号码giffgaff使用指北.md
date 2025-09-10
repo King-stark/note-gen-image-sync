@@ -49,6 +49,7 @@ giffgaff是来自英国的一家新锐低成本运营商，隶属于英国三大
 - 支持 eSIM 手机，例如美版、日版无锁 iPhone、Pixel；
 - 手机安装 [giffgaff](https://apps.apple.com/cn/app/giffgaff/id571246020) App，并登录，依次点击 **Account** > **SIM** > **Replace my SIM** > **Switch to a new eSIM**；
 
+> 如果需要转esim，建议等赠金到账24小时后再转，以防丢失赠金
 > 目前官方只提供的原生esim手机的安装方式，网上有提供其他抓包获取和生成二维码方案，搞不定的可以在激活至少24小时后联系我代转，时间为北京时间下午即可
 
 ## 更改号码
