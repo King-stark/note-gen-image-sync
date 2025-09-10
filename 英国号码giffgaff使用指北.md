@@ -86,6 +86,3 @@ giffgaff是来自英国的一家新锐低成本运营商，隶属于英国三大
 - 个人资料修改：https://www.giffgaff.com/profile/details
 - eSIM 转到另一部手机：https://www.giffgaff.com/help/articles/can-i-still-use-my-esim-if-i-switch-to-a-different-phone
 - 官方客服：https://www.giffgaff.com/boiler-plate/contact
-
-> 立即领取激活码：
-> https://cdk.linux.do/receive/df488113-f337-4c23-a568-e71dc0d128b2
